@@ -1,0 +1,11 @@
+.operationsContainer {
+    width: 40%;
+  }
+  .positionInputs {
+    display: flex;
+    gap: 10px;
+  }
+  .timerButtons, .announcementSection {
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Amitabh Sharma",
+    "address": "Uttar Pradesh",
+    "category": "Geet",
+    "language": "Hindi",
+    "checked": true
+  },
+  {
+    "id": 2,
+    "name": "Neha Singh",
+    "address": "Maharashtra",
+    "category": "Speech",
+    "language": "Punjabi",
+    "checked": false
+  },
+  {
+    "id": 3,
+    "name": "Rajesh Verma",
+    "address": "Rajasthan",
+    "category": "Kavita",
+    "language": "English",
+    "checked": false
+  },
+  {
+    "id": 4,
+    "name": "Priya Gupta",
+    "address": "Gujarat",
+    "category": "Geet",
+    "language": "Hindi",
+    "checked": true
+  },
+  {
+    "id": 5,
+    "name": "Sunil Patil",
+    "address": "Karnataka",
+    "category": "Speech",
+    "language": "Punjabi",
+    "checked": false
+  },
+  {
+    "id": 6,
+    "name": "Kavita Mehta",
+    "address": "Punjab",
+    "category": "Kavita",
+    "language": "English",
+    "checked": false
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rathore",
+    "address": "Haryana",
+    "category": "Geet",
+    "language": "Hindi",
+    "checked": true
+  },
+  {
+    "id": 8,
+    "name": "Anjali Saxena",
+    "address": "Delhi",
+    "category": "Speech",
+    "language": "Punjabi",
+    "checked": false
+  },
+  {
+    "id": 9,
+    "name": "Pawan Kumar",
+    "address": "Bihar",
+    "category": "Kavita",
+    "language": "English",
+    "checked": false
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "address": "Madhya Pradesh",
+    "category": "Geet",
+    "language": "Hindi",
+    "checked": false
+  },
+  {
+    "id": 11,
+    "name": "New Member",
+    "address": "Haryana",
+    "category": "Geet",
+    "language": "English",
+    "checked": true
+  }
+]

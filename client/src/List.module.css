@@ -1,0 +1,49 @@
+.container {
+  width: 30vw;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.columnHeader {
+  background-color: #f0f0f0;
+  text-align: left;
+  padding: 8px;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+.row {
+  border-bottom: 1px solid #ddd;
+}
+
+.cell {
+  padding: 10px;
+  vertical-align: top;
+}
+
+.details p {
+  margin: 4px 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.checkbox {
+  cursor: pointer;
+  transform: scale(1.2);
+}

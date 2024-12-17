@@ -1,0 +1,14 @@
+.anchorContainer {
+    width: 60%;
+  }
+  .positionTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .announcementBox {
+    margin-top: 20px;
+  }
+  .stopwatch {
+    margin-top: 10px;
+  }
+  
